@@ -1,0 +1,5 @@
+---
+applications:
+- name: predictor
+  random-route: true
+  memory: 1024M

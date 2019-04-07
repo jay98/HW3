@@ -1,0 +1,16 @@
+2019-04-04 21:39:59,346   ibmiotf.application.Client  INFO    Connected successfully: a:l8af2p:s87dfg6sd8f6g
+2019-04-04 22:13:01,940   ibmiotf.application.Client  INFO    Connected successfully: a:l8af2p:s87dfg6sd8f6g
+2019-04-04 22:20:35,852   ibmiotf.application.Client  INFO    Connected successfully: a:l8af2p:s87dfg6sd8f6g
+2019-04-04 22:20:36,892   ibmiotf.application.Client  ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2019-04-04 22:20:38,091   ibmiotf.application.Client  INFO    Connected successfully: a:l8af2p:s87dfg6sd8f6g
+2019-04-04 22:20:39,192   ibmiotf.application.Client  ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2019-04-04 22:20:40,394   ibmiotf.application.Client  INFO    Connected successfully: a:l8af2p:s87dfg6sd8f6g
+2019-04-04 22:20:41,446   ibmiotf.application.Client  ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2019-04-04 22:20:42,650   ibmiotf.application.Client  INFO    Connected successfully: a:l8af2p:s87dfg6sd8f6g
+2019-04-04 22:20:44,190   ibmiotf.application.Client  ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2019-04-04 22:20:45,390   ibmiotf.application.Client  INFO    Connected successfully: a:l8af2p:s87dfg6sd8f6g
+2019-04-04 22:20:46,582   ibmiotf.application.Client  ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2019-04-04 22:20:47,771   ibmiotf.application.Client  INFO    Connected successfully: a:l8af2p:s87dfg6sd8f6g
+2019-04-04 22:27:59,047   ibmiotf.application.Client  INFO    Connected successfully: a:l8af2p:s87dfg6sd8f6g
+2019-04-04 22:30:07,526   ibmiotf.application.Client  INFO    Connected successfully: a:l8af2p:s87dfg6sd8f6g
+2019-04-04 23:09:39,322   ibmiotf.application.Client  INFO    Connected successfully: a:l8af2p:s87dfg6sd8f6g

@@ -1,0 +1,1 @@
+To run the application enter: python laptop.py
